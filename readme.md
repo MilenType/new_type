@@ -1,15 +1,27 @@
 # Инструкция по работе с GIT
 
-LICENSE: [MIT](license.md)
+<em class="a1">материал может распространяться свободно</em> 
 
-![git-logo](./assets/Git-logo.svg.png)
+ Лицензия : [MIT](license.md) 
+
+![git-logo](./assets/git%20img.png)
+
+
 
 ---
 
 ### Содержание:
-1. Что-то
-2. [git add](/add.md)
+1. [_page of history_](./history.md)
+2. [add](/add.md)
+3. [commit](/commit.md)
+4. [status](/status.md)
+5. [init](/init.md)
+6. [clone](/clone.md)
+7. [config](/config.md)
+8. [fetch](/fetch.md)
+9. [merge](/merge.md)
+10. [push](/push.md)
 
 ---
 
-GIT logo by Jason Long. http://git-scm.com/downloads/logos, license: [CC BY 3.0](https://creativecommons.org/licenses/by/3.0/)
+GIT logo by [Caroly](https://www.cleanpng.com/users/@caroly.html), site: [CleanPNG](https://www.cleanpng.com/free/git-logo.html)
