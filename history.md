@@ -1,3 +1,5 @@
+<!DOCTYPE html>
+
 <h2 align="center">History page</h2>
 
 Приветствую вас на страницах "Инструкции по работе с Git". 
@@ -8,7 +10,15 @@
 
 Данную систему разрабатывали в замену ранее использовавшейся проприетарной системе контроля версий BitKeeper для разработки "ядра Linux" из-за конфликта с создателями данной системы
 
+В продолжение темы давайте перейдем к разбору комманд управления данной системой. Команды по умолчанию выполняются в командной строке
 
+Перечислю комманды по порядку следования в данной инструкции:
+
+[add](add.md) [commit](commit.md) [status](status.md) [init](init.md) [config](config.md) [clone](clone.md) [fetch](fetch.md) [merge](merge.md) [push](push.md)
+
+Ссылки кликабельны и вы можете перейти к разбору каждой темы по порядку или как вам удобно
+
+__> Желаю вам приятного ознакомления. Вначале перейдем к теме [Git add](add.md)__
 
 
 Img by Unknown Author. https://commons.wikimedia.org/wiki/File:Linus_Torvalds.jpeg, license: [CC BY 3.0](https://creativecommons.org/licenses/by/3.0/)
